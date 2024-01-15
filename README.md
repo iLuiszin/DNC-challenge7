@@ -39,7 +39,15 @@ $ npm install
 
 ### Criação do Banco de Dados
 
-##### Crie o banco de dados MySQL e as tabelas a seguir:
+##### Caso queira utilizar o docker compose:
+
+```
+docker compose up
+
+```
+
+
+##### Caso queira criar o banco de dados MySQL:
 
 ```mysql
 CREATE TABLE `aluno` (
