@@ -63,9 +63,9 @@ const knexConfig: KnexConfig = {
   connection: {
     host: 'localhost',
     port: 3306,
-    user: 'root',
-    password: '12345678',
-    database: 'desafio_7',
+    user: 'user',
+    password: 'password',
+    database: 'db',
   },
 }
 ```
