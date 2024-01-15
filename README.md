@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como resolução para o desafio 7 da formação de
 ##### Clone o repositório:
 
 ```
-$ git clone git@github.com:iluiszin/DNC-challenge7.git
+$ git clone https://github.com/iLuiszin/DNC-challenge7.git
 ```
 
 ##### Acesse a pasta criada:
